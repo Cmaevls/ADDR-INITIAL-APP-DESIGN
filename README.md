@@ -1,4 +1,4 @@
-# ADDR – Automated Drainage Debris Removal System (App)
+# ADDR – Automated Drainage Debris Removal System UI DESIGN (SUBJECT TO BE CHANGE)
 
 Monitoring app for **ADDR**, an automated drainage debris removal system for selected drainage channels in Bauan, Batangas.
 
@@ -13,13 +13,13 @@ Each drain has its own ADDR unit (a "node") with an ESP32. All units report to t
 > **Status:** UI prototype. All readings are sample values from `js/data.js`.
 > The app will show live data once the units are built and connected.
 
-## Project group
+##GROUP 1 BSCPE (NAME OF GROUP TO BE DECIDED)
 
-- [Name]
-- [Name]
-- [Name]
+- AVILES, CHRISTINE MAE
+- BICOL, LOURD MARTING
+- DE JESUS, ALEXIS
 
-[School] · [Course] · [Year]
+STI COLLEGE BATANGAS · BSCPE 301 · 3rd Year College
 
 ## Files
 
